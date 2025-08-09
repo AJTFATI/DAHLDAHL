@@ -3,7 +3,7 @@ import { defaultLanguage, type LanguageCode } from '@/i18n/ui';
 import { getRelativeLocaleUrl } from 'astro:i18n';
 import { cn } from '@/lib/utils';
 import ThemeToggle from './ThemeToggle.astro';
-import { LanguageSelector } from './LanguageSelector';
+import { LanguageSelector } from './LanguageSelector'; // This is our simplified component
 import { type LanguageSelectorItem } from '@/lib/i18n-utils';
 
 import type { NavItem } from '@/layouts/BaseLayout.astro';
@@ -98,11 +98,8 @@ const { navItems, languagesForSelector } = Astro.props;
     }
     {/* Theme Toggle Button */}
     <div class="flex items-center gap-x-3">
-      <LanguageSelector
-        currentLocale={currentLocale}
-        languages={languagesForSelector}
-        client:load
-      />
+      {/* The props have been removed from this component call */}
+      <LanguageSelector client:load />
       <ThemeToggle />
     </div>
   </div>
