@@ -1,22 +1,23 @@
 ---
-lang: 'en'
-title: 'This is Culturally Inappropiate'
-description: 'Hi Dahlia Hi Dahlia Hi Dahlia'
-pubDate: 2025-01-15
-heroImage:
-  url: '../../../../assets/placeholder.webp'
-  alt: 'Placeholder Image for Post'
-tags: ['faumbb', 'johnjakus', 'floridaatlantic']
-difficulty: 'beginner'
-isDraft: false
-featured: true
-relatedPosts: []
+title: 'Future over Past: Why FAU Basketball Will Win.'
+date: '2025-06-07'
+description: >-
+  A deep dive into how Bauhaus principles continue to shape contemporary digital
+  design
+excerpt: >-
+  From the workshops of Weimar to the screens of today, the Bauhaus movement's
+  radical approach to design continues to influence how we think about digital
+  spaces.
+categories:
+  - Design
+  - History
+  - Web Development
+tags:
+  - Bauhaus
+  - Design Theory
+  - Modernism
+  - UI Design
 ---
-
-import InfoAlert from '@/features/blog/components/InfoAlert.astro';
-
-## Introduction
-
 Florida Atlantic men’s basketball, better known as the Beach Boys, changed the university in ways no one expected.
 
 By now, everybody knows the story. 35 wins, Conference USA championship, and improbable win after improbable win until they fell in the final shot against the San Diego State Aztecs.
@@ -35,29 +36,36 @@ Even the players themselves have left.
 
 Einstein had a quote that all sports fans should remember:
 
-> “‘I’m more interested in the future than the past because the future is where I intend to live.” 
+“‘I’m more interested in the future than the past because the future is where I intend to live.” 
 
-# Enter Coach John Jakus, a proven winner.
+Enter Coach John Jakus, a proven winner.
 
-## Main Content
-
-
-<div align="center">## “RELATIONSHIPS OVER EVERYTHING.” </div>
+“RELATIONSHIPS OVER EVERYTHING.”
 Coach Jakus’s track record speaks for itself. Jakus was the associate head coach for the Baylor Bears basketball squad. He helped the roster capture a national championship and back-to-back conference titles during that time. Along with his winning tendencies, he also has helped develop 3 1st round NBA draft picks. Jeremy Sochan, Davion Mitchell, and now Keyonte George are all playing the highest level of basketball in the world.
+
 Jakus does not just have success to prove his greatness; he has legends of the game vouching for him. His former coach, Gonzaga head coach Mark Few, emphasized his commitment to the game and his players. Gonzaga is the blueprint of what midmajor schools strive to be: the Bulldogs were a relatively small school until their basketball program’s success catapulted it into the national spotlight.
+
 NBA champion coach Joe Mazzulla always praised Jakus not just for his basketball expertise but also for his appreciation for the humanity of his players. Jakus has a formula for winning: relationships over everything.
+
 You can learn all the technical aspects of basketball and all the strategies, but if you cannot relate to the person holding the basketball, you will not be a good coach.
 
-
-<div align="center">## THE FELLAS. </div>
+THE FELLAS.
 According to fluentslang.com, “the term fella is a shortened version of “fellow person” and is commonly used to refer to a friend or any random person.”
+
 Even though these athletes are all-conference players of the year or even scouted by NBA teams, at the core, they are people. Given Coach Jakus’ ideology that relationships are everything, the 2024-2025 class will be defined as such. 
+
 It seems like the coaching staff listens to Pitbull because the roster contains more international players than the average D1 team.
-According to the NCAA, just over 85 percent of DI men’s basketball players have a listed hometown in one of the 50 U.S. states, plus Washington D.C., which means DI teams have an average of nearly 2.3 international players per school. (Wittry, 2022).
+
+ According to the NCAA, just over 85 percent of DI men’s basketball players have a listed hometown in one of the 50 U.S. states, plus Washington D.C., which means DI teams have an average of nearly 2.3 international players per school. (Wittry, 2022).
+
+ 
+
 A Google maps picture showing the hometowns of all Florida Atlantic men's basketball players 2023-2024
 According to the Florida Atlantic’s roster, they have 7 international players. Jakus has assembled a roster with more than triple the amount of international players than the average university. International play has boomed recently, with the NBA dominated by foreigners (see Jokic, Giannis, Luka).
+
 A few of Jakus’ recruits have played international hoop on the biggest stage.
-Both big men have played basketball for Lithuania. Matas Vokietaitis and Mantas Kocanas both represented their country in overseas tournaments. Considering their similarities; seeing how Jakus incorporates them into the roster will be very interesting.
+
+ Both big men have played basketball for Lithuania. Matas Vokietaitis and Mantas Kocanas both represented their country in overseas tournaments. Considering their similarities; seeing how Jakus incorporates them into the roster will be very interesting.
 
 Senegal native Amar Amkou played basketball for the  NBA’s African Academy. He impressed so much that he even won Rookie of the Year in his program.
 
@@ -109,16 +117,4 @@ It’s safe to say I was very, very wrong.
 Picture of Alexander J. Taylor
 Alexander J. Taylor
 A.J Taylor is a senior at Florida Atlantic University. He is a sports fanatic and an aspiring PR professional. He created alexanderjtaylor.com during his junior year at Florida Atlantic University.
-
-### Subheading
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```javascript
-// Example code block
-function helloWorld() {
-  console.log('Hello, world!');
-}
-```
-
-Feel free to replace this content with your own.
+Related Articles
